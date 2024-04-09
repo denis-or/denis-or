@@ -10,16 +10,30 @@
 
 ### Skills
 
+#### languages  
 ![](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) **+++++**  
+![](https://img.shields.io/badge/%3C/%3E%20html-3D72D7?style=flat-square&logo=mysl&logoColor=white) **+++**  
+![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) **+++**  
+![](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) **++**  
+
+#### softwares  
 ![](https://img.shields.io/badge/qgis-93b023?&style=flat-square&logo=qgis&logoColor=white) **+++++**  
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) **+++++**  
-![](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=Leaflet&logoColor=white) **+++**  
+![](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white) **++++**  
+![](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) **+++**  
+
+#### databases
+![](https://img.shields.io/badge/duckdb-black?style=flat-square&logo=duckdb) **+++**  
+
+#### frameworks  
 ![](https://img.shields.io/badge/Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white) **+++**  
-![](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) **++**  
+![](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) **+**  
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white) **+**  
+![](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white) **+**  
+
+#### librarys  
+![](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=Leaflet&logoColor=white) **+++**  
 ![](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white) **++**  
-
-
-
 
 
 :mailbox: Follow me:
